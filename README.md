@@ -18,7 +18,7 @@ Part 7. Function templates, template functions, and strings.
 
 Part 8. Class templates, template classes, and the impossibility of separate compilation with template classes.
 
-Part 9. Why generics in Java can only be parameterized by reference types, and the difference between template classes in C++ and generics in Java.
+Part 9. The difference between template classes in C++ and generics in Java.
 
 Part 10. STL containers and iterators.
 
