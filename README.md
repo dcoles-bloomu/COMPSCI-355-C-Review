@@ -2,7 +2,7 @@
 
 The files in each folder provide a context for the review of one or more C++ concepts. For details, see the documentation and the list below.
 
-Part 1. Documentation, function prototypes, command-line arguments, static casting, stream manipulators, dynamic allocation of arrays, memory leaks. 
+Part 1. Documentation, function prototypes, command-line arguments, static casting, stream manipulators, array allocation, memory leaks. 
 
 Part 2. Passing arguments by value, pointer value, and reference. 
 
