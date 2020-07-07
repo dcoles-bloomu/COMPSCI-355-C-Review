@@ -8,7 +8,7 @@
  *
  * Points of discussion: documentation, function prototypes, command-line 
  * arguments, static casting, stream manipulators, and dynamic allocation 
- * of arrays.
+ * of linear arrays.
  *
  * Execution snapshot (with command-line arguments 23 365):
  *
