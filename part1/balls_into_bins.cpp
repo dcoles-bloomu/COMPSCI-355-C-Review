@@ -7,8 +7,8 @@
  * The numbers of balls and bins are given by command-line arguments.
  *
  * Points of discussion: documentation, function prototypes, command-line 
- * arguments, seeding the random number generator, static casting, stream
- * manipulators, dynamic allocation of arrays, memory leaks.
+ * arguments, static casting, stream manipulators, and dynamic allocation 
+ * of arrays.
  *
  * Execution snapshot (with command-line arguments 23 365):
  *
